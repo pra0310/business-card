@@ -19,3 +19,8 @@ body {
     color: #2b2839;
     border-bottom:10px solid #d8cefe;
 }
+
+.card:hover {
+  width: 450px;
+  font-size: 21px;
+}
